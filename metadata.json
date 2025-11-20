@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tetris",
+  "description": "A classic Tetris clone with modern neon aesthetics, featuring standard 7-bag randomization, level progression, and back-to-back scoring mechanics.",
+  "requestFramePermissions": []
+}
